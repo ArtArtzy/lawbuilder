@@ -1,0 +1,24 @@
+{
+  "name": "ap-mdea-builder-login",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.16.15",
+    "docx": "^9.7.1",
+    "jspdf": "^4.2.1",
+    "quasar": "^2.18.5",
+    "vue": "^3.5.18",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "sass": "^1.89.2",
+    "vite": "^7.1.3"
+  }
+}
